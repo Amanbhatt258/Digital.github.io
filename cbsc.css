@@ -1,0 +1,535 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+}
+body{
+    margin: 0px;
+}
+.Sub{
+    background-color: transparent;
+    color: black;
+    width: 100%;
+}
+header{
+    background-color:rgb(0, 132, 255);
+    height: 50px;
+    width: 100%;
+    padding: 5px;
+    color:white;
+}
+.Call{
+    margin-top: 8px;
+    margin-left: 120px;
+float: left;
+}
+.No{
+    margin-top: 5px;
+    margin-left: 10px;
+    float: left;
+}
+.Mini{
+    margin-top: 8px;
+    margin-left: 30px;
+    float: left;  
+}
+.gmail{
+    margin-top: 6px;
+    text-decoration:none;
+    color: white;
+    margin-left: 10px;
+    float: left;
+}
+.Lite{
+    margin-top: 6px;
+    margin-left: 20px;
+    float: left;  
+}
+.Ac{
+    margin-top: 6px;
+    margin-left: 20px;
+    float: left;  
+}
+.Id{
+    margin-top: 8px;
+    margin-left: 20px;
+    float: left;  
+}
+.Don{
+    margin-top: 6px;
+    margin-left: 20px;
+    float: left;  
+}
+nav {
+    background-color:white;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.icon{
+    display: none;
+}
+
+nav a{
+    position:relative;
+    display:block;
+    color:black;
+    text-decoration:none;
+    font-size: larger;
+    margin-top: 20px;
+    padding: 0px 25px;
+    padding-right: 0px;
+    float:right;
+}
+.Ps{
+    margin-top: -20px;
+    margin-left: -1260px;
+    float:left;
+}
+.Space{
+    margin-top: 0px;
+    margin-right: 20px;
+    float:right;
+}
+#div1 {
+    background-color: rgb(13, 13, 121);
+    color:aliceblue;
+    height: 550px;
+    width :100%;
+    margin-top: 20px;
+}
+section{
+    padding-top: 70px;
+ margin: 50px;
+ padding-bottom: 60px;
+ text-decoration: none;
+}
+h1{
+    font-size: 50px;
+    margin-left: 120px;
+    margin-top: 100px;
+    float: left;
+}
+.UT{
+    font-size: 25px;
+    margin-top: 270px;
+    margin-left: -460px;
+    text-decoration: 30px;
+    float: left;
+}
+.Missile{
+    margin-top: 50px;
+    margin-right: 50px;
+    float: right;
+}
+#div2 {
+    background-color:aquamarine;
+    color:aliceblue;
+    height: 70px;
+    width :210px;
+    font-size: 20px;
+    margin-top: 150px;
+    margin-left: 120px;
+    float: left;
+}
+.Sniper{
+    font-size: larger;
+    padding-top: 20px;
+    margin-left: 20px;
+    text-decoration:none;
+    color: white;
+    float: left;
+}
+.Gun{
+    margin-top: 80px;
+    margin-left: 100px;
+    float: left;
+}
+#div3{
+    background-color: rgb(125, 165, 13);
+    color: white;
+    height: 480px;
+    width: 320px;
+    margin-top: 0px;
+    margin-left:130px;
+    float: left;
+}
+.bussiness{
+    font-size:xx-large; 
+    margin-top: 50px;
+    margin-left: 90px;
+    float: left;
+}
+.lets{
+    font-size: larger;
+    margin-top: 0px;
+    margin-left: 65px;
+    float: left;
+}
+.Instute{
+    margin-top: 40px;
+    margin-left: 130px;
+    float: auto;
+}
+#div4{
+    background-color:rgb(4, 131, 235);
+    color: white;
+    height: 440px;
+    width: 350px;
+    margin-top: 150px;
+    margin-left: 497px;
+    float: auto;
+}
+.mark{
+    font-size:xx-large; 
+    margin-top: 30px;
+    margin-left: 30px;
+    float: left;
+}
+.a{
+    width: 220px;
+    font-size: larger;
+    margin-top: 0px;
+    margin-left: 70px;
+    float: left;
+}
+.Tum{
+    margin-top: 80px;
+    margin-left: 110px;
+    float: left;
+}
+#div5{
+    background-color:aqua;
+    color: white;
+    height: 530px;
+    width: 350px;
+    margin-top: -440px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    float: right;
+}
+.cust{
+    font-size:xx-large; 
+    color: white;
+    margin-top: 30px;
+    margin-right: 95px;
+    float: right;
+}
+.and{
+    color: white;
+    font-size: larger;
+    margin-top: 90px;
+    margin-right: -300px;
+    float: right;
+}
+.what{
+    color: black;
+    font-size: 50px;
+    margin-left: 0px;
+    margin-top: 150px;
+    float: left;
+} 
+.life{
+    color: black;
+    font-size: larger;
+    margin-left: 220px;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    float: left;
+}
+.Uk{
+    margin-left: -965px;
+    margin-top: 445px;
+    float: left;
+}
+.brand{
+    color: black;
+    font-size: x-large;
+    margin-top: 450px;
+    margin-left: -910px;
+    float: left;
+}
+.pre{
+    color: black;
+    font-size:larger;
+    margin-top: 490px;
+    margin-left: -910px;
+    float: left;  
+}
+
+.Mp{
+    margin-right: 565px;
+    margin-top: -132px;
+    float: right;
+}
+.resp{
+    color: black;
+    font-size: x-large;
+    margin-top: -130px;
+    margin-right: 395px;
+    float: right; 
+}
+.traff{
+    color: black;
+    font-size:larger;
+    margin-top: -90px;
+    margin-right: 110px;
+    float: right;  
+}
+.Up{
+    margin-left: 130px;
+    margin-top: 150px;
+    float: left;  
+}
+.bgmi{
+    color: black;
+    font-size: x-large;
+    margin-top: 150px;
+    margin-left: 20px;
+    float:left;
+}
+.desg{
+    color: black;
+    font-size:larger;
+    margin-top: 200px;
+    margin-left: -280px;
+    float: left;  
+}
+.Tp{
+    margin-right: 565px;
+    margin-top: -535px;
+    float: right; 
+}
+.full{
+    color: black;
+    font-size: x-large;
+    margin-top: -530px;
+    margin-right: 268px;
+    float:right;
+}
+.market{
+    color: black;
+    font-size:larger;
+    margin-top: -480px;
+    margin-bottom: 200px;
+    margin-right: 240px;
+    float: right;  
+}
+#div6{
+    background-color: rgb(13, 13, 121);
+    color:aliceblue;
+    margin-top: 1500px; 
+    height: 600px;
+    width :100%; 
+}
+.mobile{
+    color:darkgrey;
+    font-size: x-large;
+}
+.app{
+    color:darkgrey;
+    font-size: 16.3px;
+    margin-left: 122px;
+    float: left;
+}
+.emp{
+    height: 600px;
+    width: 550px;
+    float: right;
+}
+.team{
+    color: black;
+    width: 470px;
+    font-size:320%;
+    margin-top: 150px;
+    margin-left: 122px;
+    float: left; 
+}
+.dine{
+    color: black;
+    font-size:larger;
+    margin-top: 365px;
+    margin-left: -465px;
+    float: left; 
+}
+#div7{
+    background-color: rgb(13, 13, 121);
+    color:aliceblue;
+    margin-top: 10px; 
+    height: 1350px;
+    width :100%; 
+    float: left;
+}
+.trade{
+    font-size: 270%;
+    margin-top: 150px;
+    margin-left: 130px;
+    float: left;  
+}
+.mid{
+    font-size:larger;
+    margin-top: 165px;  
+    margin-right: 100px;
+    float: right; 
+}
+.trust{
+    font-size:larger;
+    margin-left: -388px;
+    margin-top: 280px;  
+    float: left;  
+}
+.pic{
+    margin-top: 380px;
+    margin-left: -400px;
+    float: left;
+}
+.pro{
+    font-size:larger;
+    margin-left: -455px;
+    margin-top: 460px;  
+    float: left;    
+}
+.like{
+    font-size:large;
+    margin-left: -490px;
+    margin-top: 510px;  
+    float: left;    
+}
+.Pun{
+    margin-top: 390px;
+    margin-left: -145px;
+    float: left; 
+}
+.wire{
+    font-size:larger;
+    margin-left: -175px;
+    margin-top: 460px;  
+    float: left;    
+}
+.low{
+    font-size:large;
+    margin-left: -220px;
+    margin-top: 510px;  
+    float: left;
+}
+.Sri{
+    margin-top: 405px;
+    margin-right: -95px;
+    float: right; 
+}
+.frame{
+    font-size:larger;
+    margin-left: 180px;
+    margin-top: 260px;  
+    float: left; 
+}
+.creat{
+    font-size:large;
+    margin-left: -142px;
+    margin-top: 305px;  
+    float: left;
+}
+.Maha{
+     margin-top: 200px;
+    margin-right: 195px;
+    float: right;
+}
+.exp{
+    font-size:larger;
+    margin-right: 160px;
+    margin-top: 25px;  
+    float: right; 
+}
+.trans{  font-size:large;
+    margin-right: 99px;
+    margin-top: 5px;  
+    float: right; 
+}
+.to{
+    color:rgb(68, 66, 66);
+    font-size: 350%;
+    margin-top: 440px;
+    margin-left:-650px;
+    float: left; 
+}
+.div8{
+    background-color: #3644a5;
+    height: 520px;
+    width: 50%;
+    padding-left: 60px;
+    margin-top: -520px;
+    float: right;
+}
+.place{
+    color: darkgray;
+    margin-top: 120px;
+    margin-right: 420px;
+    float: right;
+}
+.Textbox{
+    background-color: rgba(255,255,255,.05);
+    height: 50px;
+    width: 138%;
+}
+.Textbox1{
+    background-color: rgba(255,255,255,.05);
+    height: 50px;
+    width: 138%;
+}
+.Textbox2{
+    background-color: rgba(255,255,255,.05);
+   
+}
+.email{
+    margin-top: -66px;
+    margin-right: 165px;
+    float: right;
+}
+.mes{
+   
+    display: flex;
+    margin-top: 0px;
+    margin-right:98px;
+    float: right;
+}
+.div9{
+    background-color: aqua;
+    height: 50px;
+    width: 100px;
+    margin-right: 100px;
+    margin-top: -5px;
+    float: right;
+}
+.Sub{
+    color: white;
+    margin-top: 14px;
+    text-decoration: none;
+    padding:0px 18px;
+    float: right;
+}
+footer{
+    background-color:black;
+    color:white;
+    padding: 20px;
+  margin-top: 145%;
+  float: auto;
+}
+.item{
+    margin-top: -6px;
+    margin-right: 110px;
+    float: right;
+}
+.insta{
+    margin-top: -5px;
+    margin-right: 20px;
+    float: right;
+}
+.twite{
+    margin-top: -5px;
+    margin-right: 20px;
+    float: right;
+}
+.fb{
+    margin-top: -8px;
+    margin-right: 20px;
+    float: right; 
+}
